@@ -7,7 +7,7 @@ inside your project root directory and run:
 
 ```ruby git-tool.rb```
 
-When you run the script press c to view all available commands.
+Run the script and press c to view all available commands.
 
 ### Features
 
