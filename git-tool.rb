@@ -96,7 +96,7 @@ def execute_git(cmd)
   when 14
     puts system('git remote -v')
   else
-    puts "Oops something is wrong :("
+    puts "Oops something went wrong :("
   end
 end
 
